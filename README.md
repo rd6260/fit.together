@@ -1,4 +1,4 @@
-# fit_together
+# Fit Together
 
 ## Your Personal Health Coach
 
